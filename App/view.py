@@ -45,7 +45,7 @@ operación seleccionada.
 
 
 servicefile = 'bus_routes_14000.csv'
-initialStation = None
+initialStation = 0
 recursionLimit = 20000
 
 # ___________________________________________________
